@@ -20744,6 +20744,14 @@
     "provinceId": "45"
   },
   {
+    "province": "Islas Baleares",
+    "community": "Islas Baleares",
+    "postalcode": "07720",
+    "name": "Es Castell",
+    "communityId": "04",
+    "provinceId": "07"
+  },
+  {
     "province": "Huelva",
     "community": "Andalucía",
     "postalcode": "21870",
@@ -28718,6 +28726,14 @@
     "name": "Kuartango",
     "communityId": "16",
     "provinceId": "01"
+  },
+  {
+    "province": "Madrid",
+    "community": "Comunidad de Madrid",
+    "postalcode": "28231",
+    "name": "La Cuba",
+    "communityId": "13",
+    "provinceId": "28"
   },
   {
     "province": "Segovia",
