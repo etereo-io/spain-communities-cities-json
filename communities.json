@@ -1,0 +1,239 @@
+[{
+	"name": "Andalucía",
+	"code": "01",
+	"provinces": [{
+		"code": "04",
+		"name": "Almería"
+	}, {
+		"code": "11",
+		"name": "Cádiz"
+	}, {
+		"code": "14",
+		"name": "Córdoba"
+	}, {
+		"code": "18",
+		"name": "Granada"
+	}, {
+		"code": "11",
+		"name": "Cádiz"
+	}, {
+		"code": "14",
+		"name": "Córdoba"
+	}, {
+		"code": "21",
+		"name": "Huelva"
+	}, {
+		"code": "23",
+		"name": "Jaén"
+	}, {
+		"code": "29",
+		"name": "Málaga"
+	}, {
+		"code": "41",
+		"name": "Sevilla"
+	}]
+}, {
+	"name": "Aragón",
+	"code": "02",
+	"provinces": [{
+		"code": "22",
+		"name": "Huesca"
+	}, {
+		"code": "44",
+		"name": "Teruel"
+	}, {
+		"code": "50",
+		"name": "Zaragoza"
+	}]
+}, {
+	"name": "Asturias",
+	"code": "03",
+	"provinces": [{
+		"code": "33",
+		"name": "Asturias"
+	}]
+}, {
+	"name": "Baleares",
+	"code": "04",
+	"provinces": [{
+		"code": "07",
+		"name": "Baleares"
+	}]
+}, {
+	"name": "Canarias",
+	"code": "05",
+	"provinces": [{
+		"code": "38",
+		"name": "Santa Cruz de Tenerife"
+	}, {
+		"code": "35",
+		"name": "Las Palmas de Gran Canaria"
+	}]
+}, {
+	"name": "Cantabria",
+	"code": "06",
+	"provinces": [{
+		"code": "39",
+		"name": "Cantabria"
+	}]
+}, {
+	"name": "Castilla y León",
+	"code": "07",
+	"provinces": [{
+		"code": "05",
+		"name": "Ávila"
+	}, {
+		"code": "09",
+		"name": "Burgos"
+	}, {
+		"code": "24",
+		"name": "León"
+	}, {
+		"code": "37",
+		"name": "Salamanca"
+	}, {
+		"code": "40",
+		"name": "Segovia"
+	}, {
+		"code": "42",
+		"name": "Soria"
+	}, {
+		"code": "47",
+		"name": "Valladolid"
+	}, {
+		"code": "49",
+		"name": "Zamora"
+	}, {
+		"code": "34",
+		"name": "Palencia"
+	}]
+}, {
+	"name": "Castilla-La Mancha",
+	"code": "08",
+	"provinces": [{
+		"code": "02",
+		"name": "Albacete"
+	}, {
+		"code": "13",
+		"name": "Ciudad Real"
+	}, {
+		"code": "16",
+		"name": "Cuenca"
+	}, {
+		"code": "19",
+		"name": "Guadalajara"
+	}, {
+		"code": "45",
+		"name": "Toledo"
+	}]
+}, {
+	"name": "Cataluña",
+	"code": "09",
+	"provinces": [{
+		"code": "08",
+		"name": "Barcelona"
+	}, {
+		"code": "17",
+		"name": "Girona"
+	}, {
+		"code": "25",
+		"name": "Lleida"
+	}, {
+		"code": "43",
+		"name": "Tarragona"
+	}]
+}, {
+	"name": "Comunidad Valenciana",
+	"code": "10",
+	"provinces": [{
+		"code": "03",
+		"name": "Alicante"
+	}, {
+		"code": "12",
+		"name": "Castellón"
+	}, {
+		"code": "46",
+		"name": "Valencia"
+	}]
+}, {
+	"name": "Extremadura",
+	"code": "11",
+	"provinces": [{
+		"code": "06",
+		"name": "Badajoz"
+	}, {
+		"code": "10",
+		"name": "Cáceres"
+	}]
+}, {
+	"name": "Galicia",
+	"code": "12",
+	"provinces": [{
+		"code": "15",
+		"name": "A Coruña"
+	}, {
+		"code": "27",
+		"name": "Lugo"
+	}, {
+		"code": "32",
+		"name": "Ourense"
+	}, {
+		"code": "36",
+		"name": "Pontevedra"
+	}]
+}, {
+	"name": "Comunidad de Madrid",
+	"code": "13",
+	"provinces": [{
+		"code": "28",
+		"name": "Madrid"
+	}]
+}, {
+	"name": "Murcia",
+	"code": "14",
+	"provinces": [{
+		"code": "30",
+		"name": "Murcia"
+	}]
+}, {
+	"name": "Navarra",
+	"code": "15",
+	"provinces": [{
+		"code": "31",
+		"name": "Navarra"
+	}]
+}, {
+	"name": "País Vasco",
+	"code": "16",
+	"provinces": [{
+		"code": "48",
+		"name": "Bizkaia"
+	}, {
+		"code": "20",
+		"name": "Gipuzkoa"
+	}, {
+		"code": "01",
+		"name": "Álava"
+	}]
+}, {
+	"name": "La Rioja",
+	"code": "17",
+	"provinces": [{
+		"code": "26",
+		"name": "La Rioja"
+	}]
+}, {
+	"name": "Ceuta",
+	"code": "18",
+	"provinces": [{
+		"code": "51",
+		"name": "Ceuta"
+	}]
+}, {
+	"name": "Melilla",
+	"code": "19",
+	"provinces": [{
+		"code": "52",
+		"name": "Melilla"
+	}]
+}]
